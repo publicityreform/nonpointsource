@@ -12,17 +12,19 @@ This hopeful arrangement offers listening perspectives onto the shared imaginary
 
 To listen to rivers in this way is to also problematize the way cancer is understood, as linked to environments and inheritance. Cancers are very rarely attributed to a single cause or factor. They are situational, interconnected, accidental, inevitable.
 
-As Susan Sontag grappled with *Illness as Metaphor*, implicitly analyzing her own cancer experience through the lens of literary material, this text seeks an elucidation of, and liberation from, the metaphors that prejudice common imaginaries surrounding cancer, for patients and caregivers alike.
+Where Susan Sontag grappled with *Illness as Metaphor*, implicitly seeking an un-mediated, non-metaphorical understanding of serious illness, this text works at re-embedding cancer into its rich metaphorical substrate.
 
-To an extent, cancer is a common and relatable experience, one that creates and determines community. To an extent, all rivers carry the same water, touching multiple populations and territories in their winding paths. Cancer is both overrepresented and unmentionable (Sontag never writes explicitly about her cancer); some rivers flow clear and drinkable, while many others convey spectral runoff into concrete channels.
+To an extent, all illnesses form a common and relatable experience, one that creates and determines community. To an extent, all rivers carry the same water, touching multiple populations and territories in their winding paths. Cancer is both overrepresented and unmentionable (Sontag never writes explicitly about her own experience with cancer), so we attach it to water, because all water has a perfect memory[^1]. Rivers convey spectral runoff through concrete channels; rivers flow clear and drinkable.
 
 This text draws together a braided stream of source texts—illness narratives, scientific publications, and theory work across disciplines—to get at the shared conditions, coherence, and correspondence between rivers and cancers. Direct citation, memory, and observation collage together, as tributaries that flow inwards and spill outwards into oxbow lakes, as tumor strands that in their mutation converge and diverge.
 
 Variations of speech and water, each flowing at a particular place and time, each with their distinctive rhythms, are quoted here as compositional guides: in counterpoint, in mutual support and suspension, as carrier and modulation. This form of word-for-word poetic interpolation is known as a cento, held together in this case as if tentatively laying hands onto the malignancy of a tumor. A tumor cento.
 
-Cancer, along with auto-immune diseases, repeatedly enacts self-destruction within a toxic world—where contaminant is both self and indistinctly other. Cancer is the body, at a scale that is simultaneously personal and globally implicated. This is contamination as collaboration as Anna Tsing writes, where purity is not an option. This exchange of influence between body and world is also a form of survivance—not a reaction by one against the other, but a mutual action, an enduring presence: without collaborations, we all die[^1].
+Cancer, along with auto-immune diseases, repeatedly enacts self-destruction within a toxic world—where contaminant is both self and indistinctly other. Cancer is the body, at a scale that is simultaneously personal and globally implicated. This is contamination as collaboration as Anna Tsing writes, where purity is not an option. This exchange of influence between body and world is also a form of survivance—not a reaction by one against the other, but a mutual action, an enduring presence: without collaborations, we all die[^2].
 
-[^1]: Tsing, Anna Lowenhaupt. The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins. Princeton University Press, 2015. (28).
+[^1]: Morrison, Toni. "The Site of Memory" in *What Moves at the Margin: Selected Nonfiction*. The University Press of Mississippi, 2008 (77).
+
+[^2]: Tsing, Anna Lowenhaupt. *The Mushroom at the End of the World: On the Possibility of Life in Capitalist Ruins*. Princeton University Press, 2015. (28).
 
 
 
